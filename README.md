@@ -14,4 +14,4 @@ My name is Gustavo, I'm from Argentina
 
 ## Contact 
 
-Find my linkedin[website](https://www.linkedin.com/in/gustavo-barrera-672a88239/)
+Find my linkedin[Linkedin](https://www.linkedin.com/in/gustavo-barrera-672a88239/)
