@@ -9,7 +9,7 @@ My name is Gustavo, I'm from Argentina
 
 - Some Python coding
 - SQL (Mysql)
-- Linux (Debian, Redhat)
+- Linux (Debian)
 - Bash
 - Microsoft Azure
 
